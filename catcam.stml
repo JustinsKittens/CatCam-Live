@@ -1,1 +1,688 @@
-h
+
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+    <meta charset="UTF-8" />
+     
+    <title>CatCam Live</title>
+    <meta name="keywords" content="Live Cat Camera">
+    <meta content="JKStudios" name="author">
+    <meta name="title" content="CatCam Live" />
+    <meta name="https" content="0">
+    <meta name="DC.Date" content="2022-01-10T13:39:19-05:00">
+    <link rel="canonical" href="http://www.seminolecountyfl.gov/departments-services/county-managers-office/animal-services/catcam.stml" />    
+    <meta content="http://www.seminolecountyfl.gov/departments-services/county-managers-office/animal-services/catcam.stml" property="og:url">
+    <meta content="website" property="og:type">
+    <meta content="CatCam Live" property="og:title">
+    <meta property="og:locale" content="en_US" />
+        <script>
+    <!--
+    function highlight(blank) {}
+    var pageName = '';
+var pageId = '53951';
+    function updateContent(){}
+    function setWait(){}
+    //-->
+    </script>
+
+    
+    </head>
+    <body><meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700" rel="stylesheet" />
+<link href="/_/css/dev.css" rel="stylesheet" type="text/css" />
+<link href="/_/css/app.min.css" rel="stylesheet" type="text/css" />
+<script src="/_/js/app.min.js"></script>
+<link href="/_resources/css/custom.css" rel="stylesheet" type="text/css">
+<link href="/_/css/override.css" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!--[if lte IE 9]>
+  <link href="/core/fileparse.php/4969/urlt/_/css/ie9.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M67MHPW');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M67MHPW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+      
+  <script>
+
+    function bannerDismiss(element) {
+      var bannerHeight = jQuery("div.alert").outerHeight(),
+              $sideMenu = jQuery(".sideMenu"),
+              extraHeight = 50,
+              $wrapper = jQuery("#wrapper"),
+              wrapperMarginTop = parseInt($wrapper.css("margin-top"), 0),
+              totalMarginTop = wrapperMarginTop - bannerHeight;
+
+      if ($sideMenu.length > 0) {
+        // Removes the height of the wrapper division
+       // $wrapper.css("margin-top", totalMarginTop + "px");
+      }
+
+      element.parentNode.style.display = 'none';
+      Cookies.set('bannerClosed', '1', {expires: 2592000}); // 2592000 = 30 days
+      Cookies.set('bannerID', '18108', {expires: 2592000}); // 2592000 = 30 days
+
+      // setCookieWithDomain('bannerClosed', '1', '30', '/', 'ocoa.com');
+      // setCookieWithDomain('bannerID', '18108', '30', '/', 'ocoa.com');
+      // setCookieWithDomain('bannerClosed', '1', '30', '/', 'seminolecountyfl.gov');
+      // setCookieWithDomain('bannerID', '18108', '30', '/', 'seminolecountyfl.gov');
+      jQuery('.bannerSubpageTitle').removeClass('bannerSubpageTitle');
+      jQuery('.bannerSectionalSubpageTitle').removeClass('bannerSectionalSubpageTitle');
+    }
+  </script><!-- alert-bar -->
+   
+		</div>
+		<div class="close-container hidden-xs">
+			<a class="close-mobile toggle-mobile" href="#"></a>
+		</div><!-- .close-container -->
+	</div><!-- .overlay-container -->
+	<div class="close-container visible-xs">
+		<a class="close-mobile toggle-mobile" href="#"></a>
+	</div><!-- .close-container -->
+</div><!-- #overlay -->
+
+<div id="page">
+  	<!-- top nav -->
+  	<div class="dynamicDiv" id="dd.0.0"><div class="overlay" id="overlay">
+	<div class="overlay-container">
+		<div class="box-wrap">
+			<form class="search-form" action="/search.stml">
+				<div class="input-group">
+					<span class="input-group-btn"><button class="submit" type="submit" value=""><span class="input-group-btn"><i class="fas fa-search"></i></span></button></span> <input aria-label="Side Nav Search Input" class="inp" name="q"  type="search">
+				</div>
+			</form>
+				</ul>
+ 
+  <div class="container">
+    <div class="row d-flex align-items-center justify-content-end">
+       <div class="col-md-2 col-sm-6 col-xs-6 logo">
+       		<a href="/">
+            	<img alt="Seminole County FL Logo" class="hidden-xs img-responsive" src="/_/images/logo-seminole.jpg" />
+            	<img alt="Seminole County FL Logo Mobile" class="visible-xs img-responsive" src="/_/images/logo-seminole.jpg" />
+          	</a>
+       </div> 
+      
+      <div class="col-md-10 col-sm-6 col-xs-6 d-flex justify-content-end"><!-- removed .header-content  -->
+        <nav style="margin-right: 30%;">
+          <ul class="topmenu nolist">
+            <li><a aria-label="Businesses Top Nav Link" href="/businesses/index.stml">Businesses</a></li>
+            <li><a aria-label="Residents Top Nav Link" href="/residents/index.stml">Residents</a></li>
+            <li><a aria-label="Visitors Top Nav Link" href="/visitors/index.stml">Visitors</a></li>
+            <li><a aria-label="Services Top Nav Link" href="/departments-services/">Services</a></li>
+            <!-- <li class="search"><a href="#"><img alt="Topnav Search Icon" class="img-responsive" src="/_/images/icons/search.png" /></a></li>
+            <li class="btn-menu"><a href="http://www.seminolecountyfl.gov/i-want-to/index.stml#page=1">I Want To</a></li> -->
+          </ul>
+        </nav>
+        <button class="menu-hamburger" style="display: inline-block!important; background: #fff;"><span class="icon-bar" style="background: #0b57a2;"></span><span class="icon-bar" style="background: #0b57a2;"></span><span class="icon-bar" style="background: #0b57a2;"></span></button>
+        <div class="search-bar">
+          <form method="GET">
+            <input aria-label="Top Nav Search Input" class="search-input" name="s" placeholder="What are you searching for?"
+              type="text" />
+            <button type="submit"><i class="fas fa-search"></i></button>
+          </form>
+        </div>
+      </div>
+      <!-- .header-content --> 
+    </div>
+    <!-- .row --> 
+  </div>
+  <!-- .container --> 
+</header>
+</div>
+	<div class="dynamicDiv" id="dd.0.2"><section>
+	<div class="bg-primary">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h2 class="heading-font text-white py-5 mb-0">Live Cat Camera</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div>
+	<div class="dynamicDiv" id="dd.0.3"><section>
+	<div class="breadcrumb">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<a class="fileTrail" href="/">Home</a> <span class="fileTrailDividers">/</span>  <a class="fileTrail" href="/departments-services/">Departments & Services</a> <span class="fileTrailDividers">/</span>  <a class="fileTrail" href="/departments-services/county-managers-office/">County Manager's Office</a> <span class="fileTrailDividers">/</span>  <a class="fileTrail" href="/departments-services/county-managers-office/animal-services/">Animal Services</a> <span class="fileTrailDividers">/</span> <span class="fileTrailCurrent">Live Cat Camera</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div>
+	<div class="dynamicDiv" id="dd.0.4"><div class="container py-5">
+	<div class="row py-md-3">
+   		 
+		<div class="col-sm-12 mainContent">
+			<div class="dynamicDiv" id="dd.0.4.0"><script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script>
+<div id="playerElement" style="width:100%; height:720px; padding:0"></div>
+<script type="text/javascript">
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-9YWHr-jeup6-ke3de-MKGnn-XuhGm",
+    "title":"Cat Camera",
+    "description":"",
+    "sourceURL":"https://5fd8caf114270.streamlock.net/live/Catcam.stream/playlist.m3u8",
+    "autoPlay":true,
+    "volume":"75",
+    "mute":false,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":false
+    }
+);
+</script><!-- 
+<div class="block-center" style="text-align: center;"><span style="color:#FF0000;"><strong>Note: Please click the button below if you cannot view video stream</strong></span></div>
+
+<div class="block-center" style="text-align: center;"><span class="text-uppercase"><a class="btn btn-primary" href="http://www.seminolecountyfl.gov/departments-services/county-managers-office/animal-services/catcam.stml" style="text-decoration: none;" target="_self">REFRESH</a></span></div>
+--></div>
+		</div>
+		
+	</div>
+</div>
+</div>
+	<div class="dynamicDiv" id="dd.0.5"></div>
+	<div class="dynamicDiv" id="dd.0.6"><section class="tiles_gray">
+<div class="container">
+<div class="row">
+<h2 class="heading-font">More Information</h2>
+
+<div class="row">
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/nuisance-animal.stml">Nuisance<br />
+Animals</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/educational-programs.stml">Educational<br />
+Programs<br />
+</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/donations.stml">Donations<br />
+</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/volunteer.stml">Volunteer</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles "><a href="/departments-services/county-managers-office/animal-services/adoption-dogs.stml">Adoption<br />
+Dogs</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/adoption-cats.stml">Adoption<br />
+Cats</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/licensing.stml">Animal<br />
+Licensing</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/lost-pets.stml">Lost<br />
+Pets</a></div>
+<!--.link-tiles--></div>
+
+
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/animal-control-board.stml">Animal<br />
+Control Board</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles"><a href="/departments-services/county-managers-office/animal-services/catcam.stml">Live<br />
+Cat Cam</a></div>
+<!--.link-tiles--></div>
+
+<div class="col-md-3 col-sm-4 col-xs-6">
+<div class="link-tiles "><a href="/departments-services/county-managers-office/animal-services/complaint.stml">Complaint<br />
+Form</a></div>
+<!--.link-tiles--></div>
+</div>
+</div>
+<!--.row--></div>
+<!--.container--></section>
+<!--tiles_gray--></div>
+	<div class="dynamicDiv" id="dd.0.7"><section class="section-news">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h2 class="text-center heading-font">News &amp; Events</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-xs-12">
+				<ul class="nav nav-tabs" id="myTab">
+					<li role="presentation">
+						<a aria-controls="events" aria-selected="true" href="#events">Events</a>
+					</li>
+					<li class="active" role="presentation">
+						<a aria-controls="news" aria-selected="true" href="#news">News</a>
+					</li>
+					<li role="presentation">
+						<a aria-controls="press" aria-selected="true" href="#press" role="tab">Documents</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-6 col-xs-12">
+				<div class="search">
+					<form>
+						<input class="input" name="s" placeholder="Search" type="text"><button type="submit" style="display:inline-block; height:inherit; background: #0b57a2;"><i class="fas fa-search" style="color: #fff;"></i></button>
+					</form>
+				</div>
+			</div><!-- col-->
+		</div><!--.row-->
+		<div class="row">
+			<div class="col-sm-12">
+					<div class="tab-content" id="myTabContent">
+						<div aria-label="events-tab" class="tab-pane" id="events">
+							<div class="col-md-6 col-xs-12">
+								
+								<div class="article">
+									<span>15</span>
+									<div class="title">
+										<h3><a href="/events/2019111-shelter-fundamentals-training.stml">Shelter Fundamentals Training</a></h3>
+										<p>February 15, 2022</p>
+										<p>8:00am  - 12:00pm</p>
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									<span>15</span>
+									<div class="title">
+										<h3><a href="/events/2019112-shelter-manager-training.stml">Shelter Manager Training</a></h3>
+										<p>February 15, 2022</p>
+										<p>1:00pm  - 5:00pm</p>
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									<span>17</span>
+									<div class="title">
+										<h3><a href="/events/public-information-meeting-deer-run-property.stml">Public Information Meeting - Deer Run Property</a></h3>
+										<p>February 17, 2022</p>
+										<p>6:30pm  - 9:30pm</p>
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								</div><!--.col-->
+						
+							<div class="col-md-6 col-xs-12 second-column">
+									
+								<div class="article">
+									<span>23</span>
+									<div class="title">
+										<h3><a href="/events/awr136-mgt384-cyber-security-training-combined-courses.stml">AWR136/MGT384 Cyber Security Training (Combined Courses)</a></h3>
+										<p>February 23, 2022</p>
+										<p>8:00am  - 5:00pm</p>
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									<span>05</span>
+									<div class="title">
+										<h3><a href="/events/weed-wrangle-casselberry-site.stml">Weed Wrangle - Casselberry Site</a></h3>
+										<p>March 05, 2022</p>
+										<p>9:00am  - 12:00pm</p>
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									<span>05</span>
+									<div class="title">
+										<h3><a href="/events/weed-wrangle-seminole-county-site.stml">Weed Wrangle - Seminole County site</a></h3>
+										<p>March 05, 2022</p>
+										<p>9:00pm  - 12:00pm</p>
+									</div><!--.title-->
+								</div><!--.article-->
+								
+							
+							</div><!--.col-lg-6-->
+							
+							<div class="col-sm-12" style="float:left;">
+								<a class="btn btn-white" href="/events/">See All Events</a>
+							</div>
+						</div><!--#events-->
+						<div aria-label="news-tab" class="tab-pane active" id="news">
+							<div class="col-md-6 col-xs-12">
+								
+								<div class="article">
+									<span>09</span>
+									<div class="title">
+										<h3><a href="/news/precautionaryboil-water-advisory-amberwood.stml">PRECAUTIONARY BOIL WATER ADVISORY:  AMBERWOOD</a></h3>
+										<p>February 09, 2022</p>
+									</div><!--.title-->
+								</div><!--.article-->
+							
+								<div class="article">
+									<span>04</span>
+									<div class="title">
+										<h3><a href="/news/request-for-information-elizabeth-michaels.stml">Request for Information:  Elizabeth Michaels</a></h3>
+										<p>February 04, 2022</p>
+									</div><!--.title-->
+								</div><!--.article-->
+							
+								<div class="article">
+									<span>27</span>
+									<div class="title">
+										<h3><a href="/news/notice-of-public-hearing-board-of-county-commissioners.stml">NOTICE OF PUBLIC HEARING - BOARD OF COUNTY COMMISSIONERS</a></h3>
+										<p>January 27, 2022</p>
+									</div><!--.title-->
+								</div><!--.article-->
+							
+							</div><!--.col-lg-6-->
+							<div class="col-md-6 col-xs-12 second-column">
+									
+								<div class="article">
+									<span>20</span>
+									<div class="title">
+										<h3><a href="/news/seminole-county-animal-control-board-public-work-session.stml">Seminole County Animal Control Board Public Work Session</a></h3>
+										<p>January 20, 2022</p>
+									</div><!--.title-->
+								</div><!--.article-->
+							
+								<div class="article">
+									<span>11</span>
+									<div class="title">
+										<h3><a href="/news/seminole-county-community-services-dental-program-opening-january-19-2022.stml">Seminole County Community Services Dental Program Opening January 19, 2022</a></h3>
+										<p>January 11, 2022</p>
+									</div><!--.title-->
+								</div><!--.article-->
+							
+								<div class="article">
+									<span>28</span>
+									<div class="title">
+										<h3><a href="/news/deadline-for-accepting-preliminary-applications-for-ship-down-payment-assistance-dpa.stml">Deadline for accepting Preliminary Applications for SHIP Down Payment Assistance (DPA)</a></h3>
+										<p>December 28, 2021</p>
+									</div><!--.title-->
+								</div><!--.article-->
+							
+								
+							</div><!--.col-lg-6-->
+							
+							<div class="col-sm-12" style="float:left;">
+								<a class="btn btn-white" href="/news/">See All News</a>
+							</div>
+						</div><!--#news-->
+						<div aria-label="press-tab" class="tab-pane" id="press">
+							<div class="col-md-6 col-xs-12">
+								
+								<div class="article">
+									
+									<div class="title">
+										<h3>
+                                        
+                                       <i class="far fa-file-pdf pr-2"></i><a target="_blank" href="/core/fileparse.php/3423/urlt/Dental-flyer-11.01.21-with-added-links-.pdf">Dental Flyer Nov 1 with added links</a>
+                                        
+                                        
+                                        </h3>
+										
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									
+									<div class="title">
+										<h3>
+                                        
+                                       <i class="far fa-file-pdf pr-2"></i><a target="_blank" href="/core/fileparse.php/3423/urlt/Dental-flyer-11.01.21-added-links-.pdf">Nov 1.21 Dental Flyer with links</a>
+                                        
+                                        
+                                        </h3>
+										
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									
+									<div class="title">
+										<h3>
+                                        
+                                       <i class="far fa-file-pdf pr-2"></i><a target="_blank" href="/core/fileparse.php/30/urlt/2020-2024-Consolidated-Plan-Approved_ADA.pdf">2020-2024 Consolidated Plan</a>
+                                        
+                                        
+                                        </h3>
+										
+									</div><!--.title-->
+								</div><!--.article-->
+								
+							</div><!--.col-lg-6-->
+							<div class="col-md-6 col-xs-12 second-column">
+							
+								<div class="article">
+									
+									<div class="title">
+										<h3>
+                                        
+                                      <i class="far fa-file-pdf pr-2"></i><a target="_blank" href="/core/fileparse.php/3423/urlt/Seminole-County-Rehab-Standards_ADA.pdf">Seminole County Rehabilitation Standards</a>
+                                        
+                                        
+                                        </h3>
+										
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									
+									<div class="title">
+										<h3>
+                                        
+                                      <i class="far fa-file-pdf pr-2"></i><a target="_blank" href="/core/fileparse.php/3423/urlt/IAP-OSIA-Air-and-Space-Show-10-16-17-2021.pdf">OSIA IAP</a>
+                                        
+                                        
+                                        </h3>
+										
+									</div><!--.title-->
+								</div><!--.article-->
+								
+								<div class="article">
+									
+									<div class="title">
+										<h3>
+                                        
+                                      <i class="far fa-file-pdf pr-2"></i><a target="_blank" href="/core/fileparse.php/3423/urlt/Special-Event-Church-School-Exemption.pdf">Special Event Church and School Exemption</a>
+                                        
+                                        
+                                        </h3>
+										
+									</div><!--.title-->
+								</div><!--.article-->
+								
+
+							</div><!--.col-lg-6-->
+						</div><!--#press-->
+					</div><!-- tab content-->
+				</div><!-- col-->
+				
+		</div><!--.row-->
+	</div><!--.container-->
+</section><!--.section-news--></div>
+	<div class="dynamicDiv" id="dd.0.8"><section class="section-help">
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-xs-12 text-center">
+<h3 class="h2 heading-font">How Can We Serve You?</h3>
+
+<!-- <p>If you need to <a class="text-underline" href="#">pay a bill</a>, <a class="text-underline" href="#">request a service</a>, <a class="text-underline" href="#">lookup Information</a> or find something, most of those forms<br />
+and links are listed under the <a class="text-underline" href="#">I want to</a> section. If you don't find what you're looking you can reach<br />
+out to us through our <a class="text-underline" href="#">contact form</a>. Thank you!</p> -->
+<a class="btn btn-primary" href="#">Contact Us</a></div>
+</div>
+<!--.row--></div>
+<!--.container--></section>
+<!--.section-help--></div>
+	<div class="dynamicDiv" id="dd.0.9"><section class="prefooter">
+  <div class="container">
+  <div class="row">
+  <div class="col-md-3 col-xs-12 footer-col first-col">
+  <h4>Contact us</h4>
+  
+  <div class="address">
+  <p>1101 East First Street<br />
+  Sanford, FL 32771</p>
+  
+  <p>To contact us, call:<br />
+  <a class="text-underline" href="tel:4076650000">(407) 665-0000</a></p>
+  
+  <p>Business Hours:<br />
+  Mon-Fri (8:00am - 5:00 pm)</p>
+    <a class="mail text-underline" href="/contact-us/">Contact us</a></div>  
+  </div>
+  <!-- .footer-col -->
+  
+  <div class="col-md-2 col-xs-12 footer-col second-col">
+  <h4>RESOURCES</h4>
+  
+  <ul class="nolist">
+    
+    <li><a aria-label="Dept and Services Footer Link" href="/departments-services/">Departments &amp; Services</a></li>
+    <li><a aria-label="Document Manager Footer Link" href="/doc_mgr.stml/">Document Manager</a></li>
+    <li><a aria-label="Percipio footer Link" href="https://seminolecounty.percipio.com" target="_blank">Percipio</a></li>
+    <li><a aria-label="Solodev footer link" href="https://seminole.solodev.net" target="_blank">SoloDev CMS</a></li>
+    <li><a aria-label="webmail footer link" href="https://webmail.seminolecountyfl.gov" target="_blank">Web Mail</a></li>
+   
+    
+    
+  </ul>
+  </div>
+  <!-- .footer-col -->
+  
+  <div class="col-md-2 col-xs-12 footer-col third-col">
+  <h4>Support</h4>
+  
+  <ul class="nolist">
+    <li><a aria-label="Help Footer Link" href="/departments-services/county-managers-office/seminole-311.stml/">Help</a></li>
+    <li><a aria-label="Fraud Hotline Footer Link" href="https://www.seminolecountyfl.gov/core/fileparse.php/4480/urlt/ReportFraudWasteAbuse01_30.pdf">Fraud Hotline</a></li>
+    <li><a aria-label="Ask a Librarian Footer Link" href="https://askalibrarian.org/local.php?LibraryName=Seminole%20County%20Library%20System&DepartmentNumber=49486&Secondary=0&LibraryType=Public/" target="_blank">Ask a Librarian</a></li>
+    <li><a aria-label="Policies Footer Link" href="/departments-services/guide-to-county-services/about-seminole-county/privacy-policy.stml">Policies</a></li>
+    <li><a aria-label="Accessibility Footer Link" href="/departments-services/guide-to-county-services/about-seminole-county/accessibility-policy.stml">Accessibility</a></li>
+    <li><a aria-label="911 Footer Link" href="/departments-services/county-managers-office/e-911/">911</a></li>
+    <li><a aria-label="Prepare Footer Link" href="/departments-services/county-managers-office/prepare-seminole/">Prepare</a></li>
+     <li><a aria-label="Prepare Footer Link" href="https://region5fl.webeocasp.com/region5fl/default.aspx" target="_blank">WebEOC</a></li>
+  </ul>
+  </div>
+  <!-- .footer-col -->
+  
+  <div class="col-md-3 col-sm-12 hidden-xs footer-col four-col">
+  <h4>Connect with Us</h4>
+  
+  <ul class="nolist">
+    <li><a aria-label="311 Footer Link" href="https://www.seminolecountyfl.gov/departments-services/county-managers-office/seminole-311.stml"><span class="number">311</span>311</a></li>
+    <li><a aria-label="Facebook Footer Link" href="https://www.facebook.com/SeminoleCounty/" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i> Facebook</a></li>
+    <li><a aria-label="Twitter Footer Link" href="https://twitter.com/seminolecounty" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+    <li><a aria-label="Youtube Footer Link" href="https://www.youtube.com/channel/UCOc4d14_JwVyb1pKUajsNEQ" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i> Youtube</a></li>
+    <li><a aria-label="Nextdoor Footer Link" href="https://nextdoor.com/agency-detail/fl/seminole/seminole-county-1/" target="_blank"><i class="fas fa-home" aria-hidden="true"></i> Next Door</a></li>
+  </ul>
+  </div>
+  <!-- .footer-col -->
+  
+  <div class="col-md-2 col-xs-12 footer-col last-col">
+  <h4>About Us</h4>
+  <ul class="nolist">
+    <li><a aria-label="Agendas &amp; Minutes Footer Link" href="https://www.seminolecountyfl.gov/departments-services/board-of-county-commissioners/meeting/meeting-agendas.stml">Agendas &amp; Minutes</a></li>
+    <li><a aria-label="My Commissioner Footer Link" href="/departments-services/board-of-county-commissioners/">My Commissioner</a></li>
+    <li><a aria-label="Meeting Videos Footer Link" href="https://www.seminolecountyfl.gov/videos/index.stml#page=1">Meeting Videos</a></li>
+	<li><a aria-label="Press Releases Top Nav Link" href="/departments-services/guide-to-county-services/release-view.stml">Press Releases</a></li>
+    <li><a aria-label="Events footer Link" href="/events/">Events</a></li>
+	<li><a aria-label="News footer Link" href="/news/">News</a></li>
+
+  </ul>
+  </div>
+  <!-- .footer-col -->
+  
+  <div class="col-xs-12 visible-xs social text-center"><a class="number" href="#">311</a> <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a> <a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a> <a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></div>
+  
+  <div class="subfooter clearBoth">
+  <div class="row">
+  <div class="col-lg-4 col-md-3 col-xs-12 copyright">
+  <p>© 2022 Seminole County Government. All Rights Reserved.</p>
+  </div>
+  
+  <div class="col-md-5 col-xs-12 text-center">
+  <ul class="nolist">
+    <li><a aria-label="About Our County Footer Link" href="/about-us/">About Our County</a></li>
+    <li><a aria-label="Privacy Policy Footer Link" href="/departments-services/guide-to-county-services/about-seminole-county/privacy-policy.stml">Privacy Policy</a></li>
+    <li><a aria-label="Contact Us Footer Link" href="/contact-us/">Contact Us</a></li>
+  </ul>
+  </div>
+  
+  <div class="col-lg-3 col-md-4 col-xs-12 copyright text-center text-lg-right">
+  <p>Web Design&nbsp;by <a class="text-underline" href="https://www.digitalus.com/" target="_blank">DigitalUs</a> on&nbsp;<a class="text-underline" href="https://www.solodev.com/" target="_blank">Solodev CMS</a></p>
+  </div>
+  
+  <div class="visible-xs text-center totop"><a href="#"><i class="fas fa-angle-up" aria-hidden="true"></i></a></div>
+  </div>
+  </div>
+  <!--.sub-footer--></div>
+  <!-- .row --></div>
+  <!-- .container --></section>
+  </div>
+	<div class="dynamicDiv" id="dd.0.10"><footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-4 col-xs-12">
+        <div class="language"> <img alt="globe" class="img-responsive" src="/_/images/icons/net.png" />
+          <select aria-label="Language Select Box" class="customSelect" title="Translate" id="translate">
+            <option>Select a language</option>
+            <option value="#googtrans(en|en)">English</option>
+            <option value="#googtrans(en|fr)">French</option>
+            <option value="#googtrans(en|es)">Spanish</option>
+            <option value="#googtrans(en|pt)">Portugese</option>
+            <option value="#googtrans(en|zh-TW)">Chinese</option>
+            <option value="#googtrans(en|ja)">Japanese</option>
+          </select>
+        </div>
+        <!--.language--></div>
+      <div class="font-size col-lg-5 col-md-6 col-sm-6 col-xs-12 hidden-xs">
+        <div class="change-font">
+          <p>Text size</p>
+          <a class="size font-size-1 active" href="#">A</a> <a class="size font-size-2" href="#">A</a> <a class="size font-size-3" href="#">A</a></div>
+      </div>
+      <div class="col-md-1 col-lg-offset-3 col-md-offset-2 col-sm-2 hidden-xs totop"><a href="#"><img alt="Go to Top Icon Image" class="img-responsive" src="/_/images/icons/top.png" /></a></div>
+    </div>
+  </div>
+</footer>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+}
+</script> 
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+<script>
+$(document).ready(function($){
+$('#translate').on('change', function () {
+var url = $(this).val(); 
+if (url) {
+window.location = url; 
+location.reload();
+}
+return false;
+});  
+});
+</script> 
+</div>
+</div>
+
+    
+</body></html>
